@@ -1,4 +1,4 @@
 # Construção um cartão de perfil
-Construção de um cartão de perfil usando HTML, CSS e JavaScript. Clique [aqui]() para ver o projeto.
+Construção de um cartão de perfil usando HTML, CSS e JavaScript. Clique [aqui](https://fernandamakihirose.github.io/perfil-cartao/) para ver o projeto.
 
 ## Projeto final
